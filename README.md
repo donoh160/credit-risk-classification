@@ -15,11 +15,11 @@ First, the data was split into training and testing data. Then, the model was fi
 - Accuracy - 0.99\
 (Overall accuracy of the model)
 
-- Precision (Healthy Loans) - 1.00\
+- Precision (Healthy Loans) - 1.00
 - Precision (High-Risk Loans) - 0.88\
 (Ratio of correctly predicted loan to the total predicted loan class)
 
-- Recall (Healthy Loans) - 1.00\
+- Recall (Healthy Loans) - 1.00
 - Recall (High-Risk Loans) - 0.91\
 (Ratio of correctly predicted class to all data in the actual class.)
 
