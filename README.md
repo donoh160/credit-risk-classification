@@ -12,15 +12,15 @@ To tackle this goal, a logistic regression model was created using Scikit Learn.
 First, the data was split into training and testing data. Then, the model was fit to the training data using the LogisticRegression function from Scikit Learn utilizing the 'lbfgs' solver. Finally, the model made predictions using the testing data and the results were displayed.
 
 # Results
-- Accuracy - 0.99
-(Overall accuracy of the model)\
+- Accuracy - 0.99\
+(Overall accuracy of the model)
 
-- Precision (Healthy Loans) - 1.00
-- Precision (High-Risk Loans) - 0.88
-(Ratio of correctly predicted loan to the total predicted loan class)\
+- Precision (Healthy Loans) - 1.00\
+- Precision (High-Risk Loans) - 0.88\
+(Ratio of correctly predicted loan to the total predicted loan class)
 
-- Recall (Healthy Loans) - 1.00
-- Recall (High-Risk Loans) - 0.91
+- Recall (Healthy Loans) - 1.00\
+- Recall (High-Risk Loans) - 0.91\
 (Ratio of correctly predicted class to all data in the actual class.)
 
 # Summary
